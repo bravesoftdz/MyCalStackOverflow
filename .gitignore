@@ -1,0 +1,7 @@
+*.local
+Project1.identcache
+Win32/
+Android/Debug/styles.xml
+Android/
+AndroidManifest.template.xml
+*.stat
